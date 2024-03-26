@@ -1,6 +1,6 @@
 # 100-Days-Python-Bootcamp
 
-![preview]()
+![preview](assets/cover-python-bootcamp.jpg)
 
 ### Requirements
 - No programming experience needed - I'll teach you everything you need to know
